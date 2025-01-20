@@ -4,7 +4,6 @@ import sidebarGenerator from "../../utils/sidebarGenerator";
 import { adminPaths } from "../../routes/admin.routes";
 import { userPaths } from "../../routes/user.routes";
 import { NavLink } from "react-router-dom";
-import logo from "../../assets/logo.png";
 import styled from "styled-components";
 import { useAppSelector } from "../../redux/hooks";
 
@@ -40,8 +39,8 @@ const Sidebar = () => {
       }}
     >
       <HeaderLogo to={"/"}>
-        <img src={logo} alt="" />
-        <h1> GymBolt</h1>
+    
+        <h1> WASHA</h1>
       </HeaderLogo>
       <Menu
         style={{ height: "100%" }}
