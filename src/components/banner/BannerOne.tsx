@@ -19,7 +19,7 @@ const BannerOne = () => {
       <BannerImg>
         <img
           width={"100%"}
-          src="https://images.theconversation.com/files/76578/original/image-20150331-1231-1ttwii6.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip"
+          src="http://aqualine.like-themes.com/wp-content/uploads/2018/02/SLIDE_01.jpg"
           alt=""
         />
       </BannerImg>

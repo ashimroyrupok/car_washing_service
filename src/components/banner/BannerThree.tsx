@@ -18,7 +18,7 @@ const BannerThree = () => {
     <BannerSection>
       <BannerImg>
         <img
-          src="https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3dhc2gtY2FyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODI4fSwidG9Gb3JtYXQiOiJhdmlmIn19"
+          src="http://aqualine.like-themes.com/wp-content/uploads/2018/02/SLIDE_02.jpg"
           alt=""
         />
       </BannerImg>

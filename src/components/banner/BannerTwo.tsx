@@ -19,7 +19,7 @@ const BannerTwo = () => {
       <BannerImg>
         <img
           width={"100%"}
-          src="https://cdn.shopify.com/s/files/1/1239/9256/files/Banner_Image_Template_7835ccd2-d115-4598-ba07-1d602597fde1.png?v=1648754319"
+          src="http://aqualine.like-themes.com/wp-content/uploads/2018/02/SLIDE_04.jpg"
           alt=""
         />
       </BannerImg>

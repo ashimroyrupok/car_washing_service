@@ -1,6 +1,5 @@
 import { Button, Layout } from "antd";
 import React, { useState } from "react";
-import logo from "../../assets/logo.png";
 import { MenuOutlined } from "@ant-design/icons";
 import { NavLink } from "react-router-dom";
 import HeaderNavlinks from "./HeaderNavlinks";
