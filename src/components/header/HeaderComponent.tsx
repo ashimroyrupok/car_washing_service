@@ -37,8 +37,7 @@ const HeaderComponent = () => {
   return (
     <Header className="header" style={headerStyles}>
       <HeaderLogo className={"header-logo"} to={"/"}>
-        <img src={logo} alt="" />
-        <h1> TurboShine</h1>
+        <h2>WASHA</h2>
       </HeaderLogo>
 
       {/* header nav links  */}
@@ -58,7 +57,7 @@ const HeaderComponent = () => {
         isDrawerVisible={isDrawerVisible}
         showProfileDrawer={showProfileDrawer}
       />
-      
+
       {/* show user profile drawer  */}
       <UserProfileDrawer
         closeProfileDrawer={closeProfileDrawer}
