@@ -88,7 +88,7 @@ const Footer = () => {
         </div>
       </div>
       <p style={{ textAlign: "center", marginBottom: "20px " }}>
-        © {new Date().getFullYear()} TurboShine. All rights reserved.
+        © {new Date().getFullYear()} Washa . All rights reserved.
       </p>
     </footer>
   );
