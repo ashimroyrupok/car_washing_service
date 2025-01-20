@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import { CSSProperties } from "react";
 import { NavLink } from "react-router-dom";
+import BannerImg3 from "../../assets/images/SLIDE_04.jpg"
 const overlayStyle: CSSProperties = {
   position: "absolute",
   top: 0,
@@ -12,15 +13,13 @@ const overlayStyle: CSSProperties = {
   zIndex: 1,
 };
 
+
 // banner three
 const BannerThree = () => {
   return (
     <BannerSection>
       <BannerImg>
-        <img
-          src="http://aqualine.like-themes.com/wp-content/uploads/2018/02/SLIDE_02.jpg"
-          alt=""
-        />
+        <img src={BannerImg3} alt="" />
       </BannerImg>
       <div className="hero-overlay" style={overlayStyle}></div>
       <HeroContent>
