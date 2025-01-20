@@ -96,7 +96,7 @@ const Contact = () => {
                       className="contact-svg"
                       src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ET22.jpg"
                     />
-                    <p className="contact-text">turboshine@gmail.com</p>
+                    <p className="contact-text">washa@gmail.com</p>
                   </div>
                   <div className="mail text-box">
                     <img
